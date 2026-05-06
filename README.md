@@ -35,6 +35,25 @@ Además, se incluye:
 - Indicador visual (semáforo)  
 - Registro de eventos en tiempo real  
 
+🔴 CERRADA
+- Espera evento ABRIR
+- Valida espacios disponibles
+
+🟡 ABRIÉNDOSE
+
+- Estado intermedio
+- No acepta acciones
+- Ejecuta apertura
+
+🟢 ABIERTA
+
+- Permite paso del auto
+- Espera evento CERRAR
+
+🟠 CERRÁNDOSE
+
+- Estado intermedio
+- Finaliza cierre
 ---
 
 ## 🔄 Estados del Sistema
