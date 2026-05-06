@@ -21,6 +21,12 @@ Desarrollar una simulación interactiva que represente el funcionamiento de una 
 
 ---
 
+## Diagrama de Estados
+
+<img width="542" height="658" alt="image" src="https://github.com/user-attachments/assets/700ef7c6-624d-4452-9570-0be7eec3b10a" />
+
+---
+
 ## ⚙️ Funcionamiento del Sistema
 
 El sistema simula el comportamiento de una pluma de estacionamiento mediante los siguientes eventos:
@@ -87,7 +93,7 @@ El patrón State se implementa mediante:
 
 ---
 
-## 🔥 Influencia del Patrón en el Proyecto
+## Influencia del Patrón en el Proyecto
 
 El uso del patrón State permite:
 
